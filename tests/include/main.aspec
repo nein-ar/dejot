@@ -1,0 +1,7 @@
+:include header.djot:
+
+:include body.djot:
+
+## Conclusion
+
+The includes worked!

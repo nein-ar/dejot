@@ -1,0 +1,22 @@
+# Main Document
+
+This is the introduction.
+
+## Section One
+
+Content for section one. See [Section Two](#section-two).
+
+Also see [undefined](#nonexistent) for missing section.
+
+## Section Two
+
+Content for section two.
+
+### Subsection
+
+More content here.
+
+[^1]: This is a footnote.
+[^2]: Another footnote.
+
+Here's a footnote reference[^1] and an undefined one[^missing].
