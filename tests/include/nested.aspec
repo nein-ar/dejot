@@ -1,0 +1,5 @@
+# Nested Include Test
+
+:include subdir/chapter.djot:
+
+And some more content at the root level.

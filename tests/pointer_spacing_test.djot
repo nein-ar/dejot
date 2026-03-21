@@ -1,0 +1,19 @@
+# Header Line Format
+
+The header line gives information about the FIGfont. Here is an example showing the names of all parameters:
+
+```pointer
+flf2a$ 6 5 20 15 3 0 143 229
+flf2a$: Signature
+$: Hardblank
+6: Height
+5: Baseline
+20: Max_Length
+15: Old_Layout
+3: Comment_Lines
+0: Print_Direction
+143: Full_Layout
+229: Codetag_Count
+```
+
+The two layout parameters are closely related and fairly complex.
