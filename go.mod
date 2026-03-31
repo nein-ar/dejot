@@ -2,7 +2,10 @@ module github.com/nein-ar/dejot
 
 go 1.26.1
 
-require github.com/yashikota/mermaigo v0.0.0-20260204123623-da6036fcd378
+require (
+	github.com/urfave/cli/v3 v3.8.0
+	github.com/yashikota/mermaigo v0.0.0-20260204123623-da6036fcd378
+)
 
 require (
 	github.com/disintegration/imaging v1.6.2 // indirect
