@@ -1,0 +1,5 @@
+# File B
+
+:include circular_a.djot:
+
+More content in B.
